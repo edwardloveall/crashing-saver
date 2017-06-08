@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		39A634BD1EEA156F0068C062 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A634BC1EEA156F0068C062 /* MainView.swift */; };
-		39A634C01EEA1B2D0068C062 /* Mountains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A634BE1EEA158E0068C062 /* Mountains.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -137,7 +136,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39A634C01EEA1B2D0068C062 /* Mountains.swift in Sources */,
 				39A634BD1EEA156F0068C062 /* MainView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
